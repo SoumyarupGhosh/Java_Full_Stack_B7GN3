@@ -1,0 +1,82 @@
+@charset "ISO-8859-1";
+
+body {
+            
+            background-color: powderBlue;
+        }
+        
+        head {
+        background-color: maroon;
+        }
+        
+        nav{
+        text-align: center;
+        }
+       
+        h1 {
+            color:White;
+             background-color: LightSeaGreen;
+            font-size: 5em;
+            text-align: center;
+            line-height: 5px;
+            margin:0;
+        }
+        
+        h2,h3,
+        ul {
+        line-height: 5px;
+        text-align: center;
+      	margin: 0;
+        }
+        
+        li {
+            list-style: none;
+            display: inline-block;
+            padding: 0px;
+           
+        }
+        
+        
+        
+        table {
+         margin:"0.5";
+         border: 1px thin black;
+        }
+        
+        h5,h4{
+        	margin: 4px;
+        }
+       
+        
+       
+        form {
+            text-align: center;
+        }
+       
+        label {
+            margin-right: 5px;
+            width: 75px;
+            display: inline-block;
+        }
+       
+        .formInput {
+            margin: 10px;
+            font-size: 15px;
+        }
+        input{
+            margin: 5px;
+        }
+       
+        button {
+            margin: 20px;
+            width: 100px;
+        }
+       
+       
+       footer {
+            background-color: LightSeaGreen;
+            font-size: 1em;
+            text-align: center;
+            line-height: 20px;
+        }
+        

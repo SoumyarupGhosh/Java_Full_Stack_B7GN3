@@ -1,0 +1,29 @@
+ 
+       #footer {
+            background-color: LightSeaGreen;
+            font-size: 1em;
+            text-align: center;
+            line-height: 30px;
+            width:100%;
+            position: fixed;
+            left: 0;
+            bottom: 0;
+        }
+        
+         a {    
+	      font-size: 18px;
+	      color: Gold;
+	      background-color: Teal;
+	      margin-right: 5px;
+	       
+	   }
+	   
+	   .form-inline {
+            text-align: center;
+            line-height: 6px;
+            margin-left: 70px;
+        }
+        
+         
+       
+		

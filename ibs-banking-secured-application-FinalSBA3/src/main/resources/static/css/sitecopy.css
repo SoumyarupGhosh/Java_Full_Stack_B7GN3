@@ -1,0 +1,98 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+        body {
+            background-color: powderblue;
+        }
+       
+       
+       h1 {
+            color: red;
+            background-color: LightSeaGreen;
+            font-size: 5em;
+            text-align: center;
+            line-height: 60px;
+        }
+        
+        h2,
+        ul {
+            text-align: center;
+        }
+        h5,
+        ul {
+            text-align: left;
+        }
+       
+        li {
+            list-style: none;
+            display: inline-block;
+            padding: 5px;
+            border: 1px solid black;
+        }
+       
+        form {
+            text-align: center;
+        }
+       
+        label {
+            margin-right: 5px;
+            padding:10px;
+            margin-bottom: 0px;
+            width: 75px;
+            display: inline-block;
+        }
+       
+        .formformInput {
+            margin: 10px;
+            font-size: 15px;
+            margin-bottom: 0px;
+        }
+        input{
+            margin: 5px;
+            margin-bottom: 0px;
+        }
+       
+        button {
+            margin: 20px;
+            width: 100px;
+        }
+       
+		      a {
+		      margin-right: 5px;
+		      font-size: 20px;
+		      color: Gold;
+		      background-color: Teal;
+		   }
+       
+       #footer {
+            background-color: LightSeaGreen;
+            font-size: 1em;
+            text-align: center;
+            line-height: 20px;
+        }
+		nav{
+			padding:10px;
+			background-color:#ccabcc;
+		}
+		nav a{
+			/*padding:8px;*/
+			padding:10px
+			background-color:#00ab00;
+			display:inline-block;
+			/*margin-right:4px;*/
+			margin-right: 10px;
+		    font-size: 20px;
+			text-decoration:none;
+			font-weight:bolder;
+		}
+		section{
+			padding:15px;
+			background-color:#ffffff;
+			min-height:250px;
+		}
+	
+	table,tr,td{
+		padding:10px;
+	}

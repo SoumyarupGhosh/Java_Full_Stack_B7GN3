@@ -1,0 +1,6 @@
+body{
+		 		 background-image: url('${pageContext.request.contextPath}/resources/HomeImage1.jpg');
+		 		 background-repeat: no-repeat;
+		 		 background-size:100% 100%;
+		 		 background-blend-mode:screen;
+		 	}
